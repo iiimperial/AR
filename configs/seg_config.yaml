@@ -1,0 +1,7 @@
+in_channels: 1
+num_classes: 1
+input_size: [256, 256]
+batch_size: 4
+epochs: 100
+lr: 1e-4
+ckpt_dir: "./checkpoints/seg"

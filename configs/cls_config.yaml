@@ -1,0 +1,8 @@
+model_type: "cnnlstm"
+input_size: [256, 256]
+num_sample_frames: 16
+lstm_hidden: 256
+batch_size: 8
+epochs: 200
+lr: 1e-4
+ckpt_dir: "./checkpoints/cls"

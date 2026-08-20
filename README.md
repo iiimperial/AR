@@ -12,6 +12,8 @@ Two‑stage pipeline for Apical Rocking (AR) detection from apical‑4‑chamber
 ## Environment
 Python 3.6
 pip install -r requirements.txt
+## Pretrained weights
+ResNet‑18 weight is available at [https://download.pytorch.org/models/resnet18‑f37072fd.pth](https://download.pytorch.org/models/resnet18-5c106cde.pth)
 
 ## Quick Start
 1. Data preprocessing
